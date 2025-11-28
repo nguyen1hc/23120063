@@ -328,7 +328,6 @@ def k_fold_split(X, y, k=5):
 1. **Clone repository**:
 ```bash
 git clone https://github.com/nguyen1hc/23120063
-cd hr-analytics-numpy
 ```
 
 2. **Cài đặt dependencies**:
